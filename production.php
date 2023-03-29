@@ -1,3 +1,3 @@
 <?php
-echo "Production test,prod";
+echo "Production test,test";
 ?>
