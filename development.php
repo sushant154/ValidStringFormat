@@ -1,3 +1,3 @@
 <?php
-echo 'Test merge comman','fetch test','test revert';
+echo 'Test merge comman','fetch test';
 ?>
