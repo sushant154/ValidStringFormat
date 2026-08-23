@@ -1,3 +1,3 @@
 <?php
-echo "File3";
+echo "File3 check soft";
 ?>
